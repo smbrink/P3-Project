@@ -3,7 +3,7 @@ P3 Wrangle OpenStreetMap Data
 
 I used a couple different scripts, some from the class and some for this project.
 
-1. Count_Tags was fron the class and used to count the number of tags in the dataset.
+1. Count_Tags was from the class and used to count the number of tags in the dataset.
 
 2. P3 Street Audit was from the class and used to audit the street names.
 
