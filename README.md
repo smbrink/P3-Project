@@ -13,8 +13,8 @@ I used a couple different scripts, some from the class and some for this project
 
 5. Create_Tables is for the project and used to create the tables in SQL.
 
-6. NanoDegree+P3 is the report detailing my Project.
+6. NanoDegree_P3 is the report detailing my Project.
 
 7. Postcode_Audit is for the project and used to audit the postal codes.
 
-8. Write-Data is from the class and used to fix the postal codes and streets as well as write the CSV files.
+8. Write_Data is from the class and used to fix the postal codes and streets as well as write the CSV files.
