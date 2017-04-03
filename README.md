@@ -13,7 +13,7 @@ I used a couple different scripts, some from the class and some for this project
 
 5. Create_Tables is for the project and used to create the tables in SQL.
 
-6. NanoDegree_P3.md/NanoDegree_P3.html is the report detailing my Project.
+6. NanoDegree_P3.md & NanoDegree_P3.html are the reports detailing my Project.
 
 7. Postcode_Audit is for the project and used to audit the postal codes.
 
